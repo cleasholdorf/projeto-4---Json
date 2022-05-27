@@ -1,0 +1,16 @@
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\projeto 4 online.exe
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\projeto 4 online.deps.json
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\projeto 4 online.runtimeconfig.json
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\projeto 4 online.runtimeconfig.dev.json
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\projeto 4 online.dll
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\projeto 4 online.pdb
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.csproj.AssemblyReference.cache
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.AssemblyInfoInputs.cache
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.AssemblyInfo.cs
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.csproj.CoreCompileInputs.cache
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.dll
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.pdb
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.genruntimeconfig.cache
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cleas\source\repos\projeto 4 online\projeto 4 online\obj\Debug\netcoreapp3.1\projeto 4 online.csproj.CopyComplete
